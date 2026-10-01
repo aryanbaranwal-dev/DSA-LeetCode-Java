@@ -2,7 +2,7 @@
 
 # 2469. Convert the Temperature
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--30-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-3-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--10--01-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/convert-the-temperature/)
 
@@ -15,20 +15,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Math — best runtime 0 ms (Beats 100%), best memory 46.1 MB (Beats 40%)" src="panel-dark.svg">
+  <img alt="Topics: Math — best runtime 0 ms (Beats 100%), best memory 46 MB (Beats 76%)" src="panel-dark.svg">
 </picture>
 
 </div>
-
-> **New personal best** — Runtime improved on this submission.
 
 ### HOW IT WENT
 
 | | |
 |:--|:--|
-| **Attempts** | 2 before accepted |
-| **Time to solve** | 6 h 26 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted |
+| **Attempts** | 3 before accepted |
+| **Time to solve** | 20 h 18 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -38,12 +36,13 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (2)
+### SOLUTIONS (3)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.java](./sol1.java) | `Java` | 2026-09-30 |
-| 2 | [sol2.java](./sol2.java) | `Java` | 2026-09-30 ← **latest** |
+| 1 | [sol1.java](./sol1.java) | `Java` | 2026-10-01 |
+| 2 | [sol2.java](./sol2.java) | `Java` | 2026-10-01 |
+| 3 | [sol3.java](./sol3.java) | `Java` | 2026-10-01 ← **latest** |
 
 ---
 
