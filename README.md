@@ -30,7 +30,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `Java` | 2026-09-30 |
-| 2469 | [Convert the Temperature](problems/2469-Convert-the-Temperature) | 🟩 Easy | `Java` | 2026-09-30 |
+| 2469 | [Convert the Temperature](problems/2469-Convert-the-Temperature) | 🟩 Easy | `Java` | 2026-10-01 |
 
 ---
 
