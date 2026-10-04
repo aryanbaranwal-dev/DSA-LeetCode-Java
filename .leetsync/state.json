@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791138698859,
+  "updatedAt": 1791138999020,
   "devices": {
     "5c7c65e9-1810-4d02-b597-ed6d053bafa5": {
-      "lastSeen": 1791138698382
+      "lastSeen": 1791138998358
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Simulation"
       ],
       "title": "Fizz Buzz",
-      "at": 1791138698382
+      "at": 1791138998358
     },
     "1822": {
       "attempts": 4,
@@ -44,7 +44,7 @@
         "Math"
       ],
       "title": "Sign of the Product of an Array",
-      "at": 1791138698382
+      "at": 1791138998358
     },
     "2235": {
       "attempts": 2,
@@ -62,7 +62,7 @@
         "Math"
       ],
       "title": "Add Two Integers",
-      "at": 1791138698382
+      "at": 1791138998358
     },
     "2469": {
       "attempts": 3,
@@ -80,11 +80,12 @@
         "Math"
       ],
       "title": "Convert the Temperature",
-      "at": 1791138698382
+      "at": 1791138998358
     }
   },
   "achievements": {
-    "first_blood": 1790763108549
+    "first_blood": 1790763108549,
+    "night_owl": 1791138700014
   },
   "sheets": {},
   "days": [
