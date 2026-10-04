@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791137065519,
+  "updatedAt": 1791137199052,
   "devices": {
     "5c7c65e9-1810-4d02-b597-ed6d053bafa5": {
-      "lastSeen": 1791137055865
+      "lastSeen": 1791137198453
     }
   },
   "problems": {
@@ -25,11 +25,11 @@
         "Simulation"
       ],
       "title": "Fizz Buzz",
-      "at": 1791137055865
+      "at": 1791137198453
     },
     "1822": {
-      "attempts": 3,
-      "bestMemory": "45 MB (Beats 88%)",
+      "attempts": 4,
+      "bestMemory": "45.2 MB (Beats 57%)",
       "bestRuntime": "1 ms (Beats 26%)",
       "date": "2026-10-04",
       "difficulty": "Easy",
@@ -38,13 +38,13 @@
       "language": "Java",
       "number": 1822,
       "slug": "sign-of-the-product-of-an-array",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Array",
         "Math"
       ],
       "title": "Sign of the Product of an Array",
-      "at": 1791137055865
+      "at": 1791137198453
     },
     "2235": {
       "attempts": 2,
@@ -62,7 +62,7 @@
         "Math"
       ],
       "title": "Add Two Integers",
-      "at": 1791137055865
+      "at": 1791137198453
     },
     "2469": {
       "attempts": 3,
@@ -80,7 +80,7 @@
         "Math"
       ],
       "title": "Convert the Temperature",
-      "at": 1791137055865
+      "at": 1791137198453
     }
   },
   "achievements": {
@@ -94,7 +94,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 7
+    "pushes": 8
   },
   "identity": {
     "installId": "df8dc189-e4a3-4e5c-accc-3932aa5584ce",
