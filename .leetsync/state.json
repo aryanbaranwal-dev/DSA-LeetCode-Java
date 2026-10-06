@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791308310767,
+  "updatedAt": 1791308371221,
   "devices": {
     "5c7c65e9-1810-4d02-b597-ed6d053bafa5": {
-      "lastSeen": 1791308310245
+      "lastSeen": 1791308370711
     }
   },
   "problems": {
@@ -25,7 +25,25 @@
         "Simulation"
       ],
       "title": "Fizz Buzz",
-      "at": 1791308310245
+      "at": 1791308370711
+    },
+    "1281": {
+      "attempts": 1,
+      "bestMemory": "42.1 MB (Beats 46%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-06",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-06",
+      "folderName": "1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer",
+      "language": "Java",
+      "number": 1281,
+      "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "solutionCount": 1,
+      "tags": [
+        "Math"
+      ],
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "at": 1791308370711
     },
     "1342": {
       "attempts": 1,
@@ -44,7 +62,7 @@
         "Bit Manipulation"
       ],
       "title": "Number of Steps to Reduce a Number to Zero",
-      "at": 1791308310245
+      "at": 1791308370711
     },
     "1523": {
       "attempts": 3,
@@ -62,7 +80,7 @@
         "Math"
       ],
       "title": "Count Odd Numbers in an Interval Range",
-      "at": 1791308310245
+      "at": 1791308370711
     },
     "1822": {
       "attempts": 4,
@@ -81,7 +99,7 @@
         "Math"
       ],
       "title": "Sign of the Product of an Array",
-      "at": 1791308310245
+      "at": 1791308370711
     },
     "2235": {
       "attempts": 2,
@@ -99,7 +117,7 @@
         "Math"
       ],
       "title": "Add Two Integers",
-      "at": 1791308310245
+      "at": 1791308370711
     },
     "2469": {
       "attempts": 3,
@@ -117,23 +135,25 @@
         "Math"
       ],
       "title": "Convert the Temperature",
-      "at": 1791308310245
+      "at": 1791308370711
     }
   },
   "achievements": {
     "first_blood": 1790763108549,
-    "night_owl": 1791138700014
+    "night_owl": 1791138700014,
+    "on_fire": 1791308322243
   },
   "sheets": {},
   "days": [
     "2026-09-30",
     "2026-10-01",
     "2026-10-04",
-    "2026-10-05"
+    "2026-10-05",
+    "2026-10-06"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 10
+    "longestStreak": 3,
+    "pushes": 11
   },
   "identity": {
     "installId": "df8dc189-e4a3-4e5c-accc-3932aa5584ce",
