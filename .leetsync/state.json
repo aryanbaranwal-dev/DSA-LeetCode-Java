@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791630621280,
+  "updatedAt": 1791630784701,
   "devices": {
     "5c7c65e9-1810-4d02-b597-ed6d053bafa5": {
-      "lastSeen": 1791630620855
+      "lastSeen": 1791630784236
     }
   },
   "problems": {
@@ -23,7 +23,7 @@
         "Math"
       ],
       "title": "Palindrome Number",
-      "at": 1791630620855
+      "at": 1791630784236
     },
     "412": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Simulation"
       ],
       "title": "Fizz Buzz",
-      "at": 1791630620855
+      "at": 1791630784236
     },
     "1281": {
       "attempts": 1,
@@ -61,7 +61,7 @@
         "Math"
       ],
       "title": "Subtract the Product and Sum of Digits of an Integer",
-      "at": 1791630620855
+      "at": 1791630784236
     },
     "1342": {
       "attempts": 1,
@@ -80,7 +80,26 @@
         "Bit Manipulation"
       ],
       "title": "Number of Steps to Reduce a Number to Zero",
-      "at": 1791630620855
+      "at": 1791630784236
+    },
+    "1480": {
+      "attempts": 1,
+      "bestMemory": "44.4 MB (Beats 17%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-10",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-10",
+      "folderName": "1480-Running-Sum-of-1d-Array",
+      "language": "Java",
+      "number": 1480,
+      "slug": "running-sum-of-1d-array",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "title": "Running Sum of 1d Array",
+      "at": 1791630784236
     },
     "1491": {
       "attempts": 1,
@@ -99,7 +118,7 @@
         "Sorting"
       ],
       "title": "Average Salary Excluding the Minimum and Maximum Salary",
-      "at": 1791630620855
+      "at": 1791630784236
     },
     "1518": {
       "attempts": 1,
@@ -118,7 +137,7 @@
         "Simulation"
       ],
       "title": "Water Bottles",
-      "at": 1791630620855
+      "at": 1791630784236
     },
     "1523": {
       "attempts": 3,
@@ -136,7 +155,7 @@
         "Math"
       ],
       "title": "Count Odd Numbers in an Interval Range",
-      "at": 1791630620855
+      "at": 1791630784236
     },
     "1822": {
       "attempts": 4,
@@ -155,7 +174,7 @@
         "Math"
       ],
       "title": "Sign of the Product of an Array",
-      "at": 1791630620855
+      "at": 1791630784236
     },
     "1929": {
       "attempts": 1,
@@ -174,7 +193,7 @@
         "Simulation"
       ],
       "title": "Concatenation of Array",
-      "at": 1791630620855
+      "at": 1791630784236
     },
     "2235": {
       "attempts": 2,
@@ -192,7 +211,7 @@
         "Math"
       ],
       "title": "Add Two Integers",
-      "at": 1791630620855
+      "at": 1791630784236
     },
     "2469": {
       "attempts": 3,
@@ -210,7 +229,7 @@
         "Math"
       ],
       "title": "Convert the Temperature",
-      "at": 1791630620855
+      "at": 1791630784236
     }
   },
   "achievements": {
@@ -233,7 +252,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 16
+    "pushes": 17
   },
   "identity": {
     "installId": "df8dc189-e4a3-4e5c-accc-3932aa5584ce",
